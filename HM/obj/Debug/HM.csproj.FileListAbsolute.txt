@@ -1,0 +1,14 @@
+C:\Users\zinov\OneDrive\Робочий стіл\Study\C#\HM\HM\bin\Debug\HM.exe.config
+C:\Users\zinov\OneDrive\Робочий стіл\Study\C#\HM\HM\bin\Debug\HM.exe
+C:\Users\zinov\OneDrive\Робочий стіл\Study\C#\HM\HM\bin\Debug\HM.pdb
+C:\Users\zinov\OneDrive\Робочий стіл\Study\C#\HM\HM\obj\Debug\HM.csproj.AssemblyReference.cache
+C:\Users\zinov\OneDrive\Робочий стіл\Study\C#\HM\HM\obj\Debug\HM.csproj.CoreCompileInputs.cache
+C:\Users\zinov\OneDrive\Робочий стіл\Study\C#\HM\HM\obj\Debug\HM.exe
+C:\Users\zinov\OneDrive\Робочий стіл\Study\C#\HM\HM\obj\Debug\HM.pdb
+D:\Study\C#\HM\HM\bin\Debug\HM.exe.config
+D:\Study\C#\HM\HM\bin\Debug\HM.exe
+D:\Study\C#\HM\HM\bin\Debug\HM.pdb
+D:\Study\C#\HM\HM\obj\Debug\HM.csproj.AssemblyReference.cache
+D:\Study\C#\HM\HM\obj\Debug\HM.csproj.CoreCompileInputs.cache
+D:\Study\C#\HM\HM\obj\Debug\HM.exe
+D:\Study\C#\HM\HM\obj\Debug\HM.pdb
